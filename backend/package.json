@@ -1,0 +1,41 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node prisma/seed.js"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^7.0.1",
+    "@prisma/client": "^6.5.0",
+    "bcryptjs": "^2.4.3",
+    "corps": "^0.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.3",
+    "file-saver": "^2.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.2",
+    "nodemailer": "^6.10.0",
+    "prisma": "^6.5.0",
+    "xlsx": "^0.18.5",
+    "zod": "^3.24.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^22.13.10",
+    "bcrypt": "^5.1.1",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  }
+}
