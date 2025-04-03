@@ -1,0 +1,129 @@
+Select Location 
+ #SDO - Imus City
+ #School - Imus City
+
+- SDO -Mus City
+  - Information and Communications Technology Unit
+  - Administrative Services - Personnel Unit
+  - Administrative Services - Records Unit 
+  - Administrative Services - Cash Unit
+  - Administrative Services - Property and Supply
+  - Administrative Services - Proper
+  - Finance Services - Budget Unit
+  - Finance Services - Accounting Unit
+  - Legal Services Unit
+  - Curriculum Implementation Division (CID) - ALS
+  - Curriculum Implementation Division (CID) - Proper
+  - School Governance and Operations Division (SGOD) - Planning and Research Section
+  - School Governance and Operations Division (SGOD) - Private School
+  - School Governance and Operations Division (SGOD) - Human Resource Development
+  - School Governance and Operations Division (SGOD) - Social Mobilization and Networking
+  - School Governance and Operations Division (SGOD) - School Management Monitoring and Evaluation
+  - School Governance and Operations Division (SGOD) - School Health Services
+  - School Governance and Operations Division (SGOD) - Education Facilities
+  - School Governance and Operations Division (SGOD) - DRRM
+  - School Governance and Operations Division (SGOD) - YFD
+  - School Governance and Operations Division (SGOD) - Main
+  - Office of the Schools Division Superintendent (OSDS)
+  - Office of the Assistant Schools Division Superintendent (OASDS)
+  - Curriculum Implementation Division (CID) - Learning Resources
+
+Elementary
+- Alapan I Elementary School
+- Alapan II Elementary School
+- Anabu I Elementary School
+- Anabu II Elementary School
+- Bayan Luma I Elementary School
+- Bayan Luma II Elementary School
+- Buhay na Tubig Elementary School
+- Buhay na Tubig Elementary School - Maharlika Annex
+- Bukandala Elementary School
+- Carsadang Bago Elementary School
+- Cayetano Topacio Elementary School
+- Estanislao Villanueva Elementaty School
+- Imus Pilot Elementary School
+- Malagasang I Elementary School
+- Malagasang II Elementary School
+- Malagasang III Elementary School
+- Palico Elementary School
+- Pasong Buaya I Elementary School
+- Pasong Buaya II Elementary School
+- Pasong Buaya III Elementary School
+- Pasong Santol Elementary School
+- Pasong Santol Elementary School - Golden City
+- Tanzang Luma Elementary School 
+- Tinabunan Elementary School
+- Toclong Elementary School
+
+Junior High School
+- Gen. Emilio Aguinaldo National High School
+- Gen. Licerio Topacio National High School
+- Gen. Tomas Mascardo High School
+- Hipolito Saquilayan National High School
+- Imus National High School
+
+Senior High School
+- Gen. Flaviano Yengko Senior High School
+- Gen. Juan Castañeda Senior High School
+- Gen. Pantaleon Garcia Senior High School
+- Gov. Juanito Reyes Remulla Senior High School
+
+Integrated School 
+- Anastacio Advincula Integrated School
+- City of Imus Integrated School
+- Francisca Benitez Integrated School
+- Gov. D.M. Camerino Integrated School
+
+
+Private Schools (Others)   
+
+
+
+
+
+
+Troubleshooting 
+Name Email
+Location
+Date of Request
+Type of Equipment
+Model Of Equipment
+Serial No.
+Priority
+Specific Problem (Optional)
+
+
+Account managemenr
+Name
+Email
+Priority
+Account Type (Gmail Account, M365 Account, LIS Account, LMS Account, Adobe Account)
+Create or Reset Password
+Subject
+Message
+
+
+Uploading of Publication
+Name
+Email
+Priority
+Location (SDO- Imus City and School - Imus City)
+Subject
+Message
+
+
+
+
+DATABASE 
+LOCATION IN (document_upload, account management, Troubleshoot)
+fix the tracking ID ticket all database ( not check )
+
+fix the admin TICKET(DETAILS)
+improve the notification in admin
+setting add technical assistant and fucntion
+setting improve the email sender (improve the pass and validate the email is has authentication and app password to work it system)
+manage ticket (arvhive the resolve status)
+
+
+
+ 
